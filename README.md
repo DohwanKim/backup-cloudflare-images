@@ -1,6 +1,7 @@
 # Cloudflare Images 백업 도구
 
-이 프로젝트는 [Cursor AI](https://cursor.sh/)를 활용하여 개발된 Cloudflare Images의 이미지들을 로컬로 백업하는 도구입니다.
+이 프로젝트는 [Cursor AI](https://cursor.sh/)를 활용하여 개발된 Cloudflare Images의 이미지들을 로컬로 백업하는 도구입니다.  
+모든 코드는 [Cursor AI](https://cursor.sh/)가 작성하였으며 [Cursor AI](https://cursor.sh/)의 파워를 알기위해 저는 오퍼레이팅만 하였습니다.
 
 ## 기능
 
