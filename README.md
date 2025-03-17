@@ -68,7 +68,24 @@ src/
   ├── index.ts              # 메인 애플리케이션 진입점
   └── services/
       ├── cloudflare.ts     # Cloudflare API 통신 서비스
-      └── backup.ts         # 백업 프로세스 관리 서비스
+      ├── backup.ts         # 백업 프로세스 관리 서비스
+      └── __tests__/        # 테스트 파일 디렉토리
+```
+
+## 테스트
+
+이 프로젝트는 Jest를 사용하여 단위 테스트를 실행합니다.
+
+테스트 실행:
+
+```bash
+npm test
+```
+
+테스트 커버리지 보고서 생성:
+
+```bash
+npm run test:coverage
 ```
 
 ## 환경 변수
